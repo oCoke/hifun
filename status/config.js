@@ -1,0 +1,1 @@
+window.Config={SiteName:"状态监控",SiteUrl:"/",ApiDomain:"uptime.yfun.workers.dev",ApiKeys:["ur1102257-f54e8d47c167ff55f5e3de33"],ShowLink:!1,CountDays:60,Navi:[{text:"Home",url:"https://yfun.top"},{text:"Blog",url:"https://blog.yfun.top"},{text:"Note",url:"https://note.yfun.top"}]};
